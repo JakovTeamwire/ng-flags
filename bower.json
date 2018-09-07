@@ -1,6 +1,6 @@
 {
   "name": "ng-flags-up",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/ng-flags-up.js",
   "ignore": ["README.md", "bower.json"],
   "dependencies": {
