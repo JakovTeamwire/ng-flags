@@ -1,8 +1,8 @@
 {
   "name": "ng-flags-up",
   "version": "0.0.1",
-  "main": "src/directives/ng-flags.js",
-  "ignore": ["README.md"],
+  "main": "src/ng-flags.js",
+  "ignore": ["README.md", "bower.json", "LICENCE.md" ],
   "dependencies": {
     "angular": "~1.0.4"
   },
