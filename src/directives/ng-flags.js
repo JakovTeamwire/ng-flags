@@ -1,9 +1,3 @@
-/**
- * ng-flags module
- * Turns country ISO code to flag thumbnail.
- *
- * Author: asafdav - https://github.com/asafdav
- */
 angular.module('ngFlag', []).
   directive('flag', function() {
     return {
